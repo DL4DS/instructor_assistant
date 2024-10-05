@@ -1,0 +1,6 @@
+literalai
+nltk
+pandas==2.2.3
+python-dotenv==1.0.1
+textblob==0.18.0.post0
+textstat==0.7.4
